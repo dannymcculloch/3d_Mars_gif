@@ -1,4 +1,4 @@
-# 3d_Mars_gif
+# 3D Mars figures
 Repository for the code and images of a 3D render of the Mars model, as used in [McCulloch et al., 2022](https://doi.org/10.5194/egusphere-2022-718). Code also provides a 3D render GIF of the same dataset, with a reduced orography.
 
 ### Fig 1
